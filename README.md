@@ -26,3 +26,7 @@ beautifulsoup
 ## Author
 
 Andrzej Adahs
+
+### Contact
+
+ruthgudd@gmail.com
